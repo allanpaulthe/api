@@ -1,0 +1,1464 @@
+{
+    "data": [
+        {
+            "mark": "PH100(F), BE110(F), EC100(F), PH110(B+), EC110(B+), MA102(B+), BE102(B+), CS100(B+),CS120(O)",
+            "rollno": "TLY16IT001"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), EC100(C), PH110(A+), EC110(O), MA102(B), BE102(A), CS100(B),CS120(O)",
+            "rollno": "TLY16IT002"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EC100(C), PH110(B+), EC110(A), MA102(F), BE102(B+), CS100(C),CS120(O)",
+            "rollno": "TLY16IT003"
+        },
+        {
+            "mark": "PH100(B), BE110(A+), EC100(B), PH110(B+), EC110(A+), MA102(F), BE102(O), CS100(B),CS120(O)",
+            "rollno": "TLY16IT004"
+        },
+        {
+            "mark": "PH100(C), BE110(B), EC100(B), PH110(A+), EC110(A+), MA102(B+), BE102(B+), CS100(C),CS120(A+)",
+            "rollno": "TLY16IT005"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EC100(C), PH110(B+), EC110(A+), MA102(C), BE102(A+), CS100(F),CS120(A+)",
+            "rollno": "TLY16IT006"
+        },
+        {
+            "mark": "PH100(C), BE110(O), EC100(B), PH110(B+), EC110(O), MA102(B), BE102(A), CS100(B+),CS120(O)",
+            "rollno": "TLY16IT007"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), EC100(F), PH110(B), EC110(A), MA102(C), BE102(B+), CS100(F),CS120(O)",
+            "rollno": "TLY16IT008"
+        },
+        {
+            "mark": "PH100(B), BE110(F), EC100(B), PH110(B), EC110(A+), MA102(B+), BE102(A+), CS100(B+),CS120(A+)",
+            "rollno": "TLY16IT009"
+        },
+        {
+            "mark": "PH100(C), BE110(A+), EC100(B), PH110(B+), EC110(O), MA102(B), BE102(O), CS100(B+),CS120(O)",
+            "rollno": "TLY16IT010"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EC100(C), PH110(B), EC110(B+), MA102(F), BE102(B), CS100(F),CS120(B+)",
+            "rollno": "TLY16IT011"
+        },
+        {
+            "mark": "PH100(B), BE110(B+), EC100(A+), PH110(B+), EC110(A+), MA102(B), BE102(A), CS100(B),CS120(O)",
+            "rollno": "TLY16IT012"
+        },
+        {
+            "mark": "PH100(Absent), BE110(B), EC100(C), PH110(B+), EC110(O), MA102(Absent), BE102(B+),CS100(Absent), CS120(B+)",
+            "rollno": "TLY16IT013"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EC100(B), PH110(B), EC110(B+), MA102(F), BE102(B), CS100(F),CS120(B+)",
+            "rollno": "TLY16IT014"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), EC100(B), PH110(B+), EC110(A+), MA102(C), BE102(B), CS100(C),CS120(O)",
+            "rollno": "TLY16IT015"
+        },
+        {
+            "mark": "PH100(B), BE110(A), EC100(C), PH110(B+), EC110(A+), MA102(F), BE102(A+), CS100(C),CS120(O)",
+            "rollno": "TLY16IT016"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), EC100(B), PH110(B+), EC110(A+), MA102(B), BE102(B), CS100(C),CS120(O)",
+            "rollno": "TLY16IT017"
+        },
+        {
+            "mark": "PH100(F), BE110(B), EC100(C), PH110(B+), EC110(A+), MA102(F), BE102(B), CS100(F),CS120(A)",
+            "rollno": "TLY16IT018"
+        },
+        {
+            "mark": "PH100(B), BE110(F), EC100(B), PH110(B), EC110(A+), MA102(F), BE102(B+), CS100(B),CS120(O)",
+            "rollno": "TLY16IT019"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), EC100(B+), PH110(B+), EC110(B+), MA102(B), BE102(B+), CS100(B+),CS120(A+)",
+            "rollno": "TLY16IT020"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EC100(F), PH110(B), EC110(A+), MA102(F), BE102(B+), CS100(B),CS120(A)",
+            "rollno": "TLY16IT021"
+        },
+        {
+            "mark": "PH100(B), BE110(O), EC100(B), PH110(A+), EC110(O), MA102(C), BE102(B+), CS100(O),CS120(O)",
+            "rollno": "TLY16IT022"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), EC100(C), PH110(A+), EC110(A+), MA102(B+), BE102(B+), CS100(B),CS120(O)",
+            "rollno": "TLY16IT023"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), EC100(P), PH110(B+), EC110(A), MA102(F), BE102(A), CS100(B),CS120(O)",
+            "rollno": "TLY16IT024"
+        },
+        {
+            "mark": "PH100(F), BE110(C), EC100(C), PH110(C), EC110(A), MA102(F), BE102(B), CS100(C),CS120(A+)",
+            "rollno": "TLY16IT025"
+        },
+        {
+            "mark": "PH100(F), BE110(FE), EC100(Absent), PH110(C), EC110(B+), MA102(FE), BE102(C), CS100(F),CS120(B+)",
+            "rollno": "TLY16IT026"
+        },
+        {
+            "mark": "PH100(B+), BE110(B), EC100(B), PH110(A), EC110(O), MA102(B), BE102(B+), CS100(A),CS120(O)",
+            "rollno": "TLY16IT027"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EC100(C), PH110(A), EC110(O), MA102(F), BE102(B+), CS100(F),CS120(A+)",
+            "rollno": "TLY16IT028"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), EC100(B), PH110(B+), EC110(O), MA102(B), BE102(B), CS100(B+),CS120(O)",
+            "rollno": "TLY16IT029"
+        },
+        {
+            "mark": "PH100(B), BE110(F), EC100(B+), PH110(A), EC110(A+), MA102(B), BE102(B+), CS100(A+),CS120(O)",
+            "rollno": "TLY16IT030"
+        },
+        {
+            "mark": "PH100(P), BE110(F), EC100(C), PH110(B+), EC110(A+), MA102(F), BE102(B+), CS100(C),CS120(A+)",
+            "rollno": "TLY16IT031"
+        },
+        {
+            "mark": "PH100(A+), BE110(O), EC100(B+), PH110(A), EC110(O), MA102(A), BE102(A+), CS100(A+),CS120(O)",
+            "rollno": "TLY16IT032"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), EC100(C), PH110(B), EC110(O), MA102(C), BE102(B+), CS100(B),CS120(O)",
+            "rollno": "TLY16IT033"
+        },
+        {
+            "mark": "PH100(C), BE110(A+), EC100(C), PH110(B+), EC110(A+), MA102(F), BE102(B), CS100(C),CS120(O)",
+            "rollno": "TLY16IT034"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), EC100(B), PH110(B), EC110(O), MA102(B), BE102(A+), CS100(B),CS120(O)",
+            "rollno": "TLY16IT035"
+        },
+        {
+            "mark": "PH100(C), BE110(B), EC100(B), PH110(B+), EC110(O), MA102(B), BE102(B+), CS100(B),CS120(A+)",
+            "rollno": "TLY16IT036"
+        },
+        {
+            "mark": "PH100(B+), BE110(B), EC100(B+), PH110(B+), EC110(A+), MA102(A), BE102(B+), CS100(A),CS120(O)",
+            "rollno": "TLY16IT037"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EC100(C), PH110(B), EC110(A+), MA102(F), BE102(B+), CS100(C),CS120(B+)",
+            "rollno": "TLY16IT038"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), EC100(B), PH110(B+), EC110(O), MA102(A+), BE102(A+), CS100(B+),CS120(O)",
+            "rollno": "TLY16IT039"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), EC100(C), PH110(B), EC110(A+), MA102(F), BE102(A), CS100(B),CS120(A+)",
+            "rollno": "TLY16IT040"
+        },
+        {
+            "mark": "PH100(C), BE110(O), EC100(B), PH110(A+), EC110(O), MA102(B+), BE102(A+), CS100(A+),CS120(O)",
+            "rollno": "TLY16IT041"
+        },
+        {
+            "mark": "PH100(B), BE110(F), EC100(C), PH110(B+), EC110(A+), MA102(B), BE102(B), CS100(B),CS120(A+)",
+            "rollno": "TLY16IT042"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EC100(F), PH110(B+), EC110(A+), MA102(F), BE102(A), CS100(B),CS120(A+)",
+            "rollno": "TLY16IT043"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EC100(C), PH110(B+), EC110(A), MA102(F), BE102(B), CS100(C),CS120(A)",
+            "rollno": "TLY16IT044"
+        },
+        {
+            "mark": "PH100(C), BE110(F), EC100(C), PH110(B+), EC110(A+), MA102(C), BE102(B+), CS100(C),CS120(B+)",
+            "rollno": "TLY16IT045"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), EC100(C), PH110(B), EC110(O), MA102(F), BE102(B), CS100(C),CS120(A+)",
+            "rollno": "TLY16IT046"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), EC100(C), PH110(B+), EC110(O), MA102(B+), BE102(B+), CS100(B),CS120(A)",
+            "rollno": "TLY16IT047"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EC100(C), PH110(B), EC110(A+), MA102(F), BE102(A+), CS100(B),CS120(A)",
+            "rollno": "TLY16IT048"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), EC100(F), PH110(B+), EC110(O), MA102(B+), BE102(B), CS100(B),CS120(A+)",
+            "rollno": "TLY16IT049"
+        },
+        {
+            "mark": "PH100(B), BE110(O), EC100(B), PH110(A+), EC110(O), MA102(B+), BE102(A+), CS100(B+),CS120(O)",
+            "rollno": "TLY16IT050"
+        },
+        {
+            "mark": "PH100(F), BE110(A), EC100(P), PH110(B), EC110(O), MA102(F), BE102(A), CS100(C),CS120(O)",
+            "rollno": "TLY16IT051"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), ME100(C), EE100(C), PH110(A), ME110(B), EE110(A), MA102(F),BE102(B+)",
+            "rollno": "TLY16EC001"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), ME100(B), EE100(B), PH110(A), ME110(B+), EE110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC002"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(C), EE100(B), PH110(A+), ME110(C), EE110(O), MA102(F),BE102(A+)",
+            "rollno": "TLY16EC003"
+        },
+        {
+            "mark": "PH100(B), BE110(B+), ME100(B+), EE100(A), PH110(B+), ME110(B+), EE110(A+), MA102(B),BE102(A+)",
+            "rollno": "TLY16EC004"
+        },
+        {
+            "mark": "PH100(B+), BE110(A), ME100(C), EE100(A+), PH110(O), ME110(A), EE110(O), MA102(A+),BE102(O)",
+            "rollno": "TLY16EC005"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(C), EE100(C), PH110(B+), ME110(C), EE110(A+), MA102(F),BE102(A)",
+            "rollno": "TLY16EC006"
+        },
+        {
+            "mark": "PH100(A+), BE110(B+), ME100(B+), EE100(O), PH110(O), ME110(A), EE110(O), MA102(A),BE102(A+)",
+            "rollno": "TLY16EC007"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), ME100(B), EE100(B+), PH110(A+), ME110(B+), EE110(A+), MA102(B),BE102(A+)",
+            "rollno": "TLY16EC008"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(F), EE100(F), PH110(A+), ME110(B), EE110(B+), MA102(F),BE102(B+)",
+            "rollno": "TLY16EC009"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), ME100(F), EE100(F), PH110(A), ME110(B), EE110(C), MA102(F),BE102(B+)",
+            "rollno": "TLY16EC010"
+        },
+        {
+            "mark": "PH100(B), BE110(A), ME100(B), EE100(B+), PH110(O), ME110(B), EE110(A+), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC011"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(B), EE100(B), PH110(A), ME110(B), EE110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC012"
+        },
+        {
+            "mark": "PH100(B), BE110(O), ME100(B+), EE100(A), PH110(O), ME110(B+), EE110(O), MA102(O),BE102(O)",
+            "rollno": "TLY16EC013"
+        },
+        {
+            "mark": "PH100(B), BE110(A+), ME100(B+), EE100(B+), PH110(O), ME110(A), EE110(O), MA102(B),BE102(O)",
+            "rollno": "TLY16EC014"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(B+), EE100(B+), PH110(A+), ME110(C), EE110(B+), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC015"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(B), EE100(B+), PH110(A+), ME110(B+), EE110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC016"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(C), EE100(C), PH110(A+), ME110(B+), EE110(A), MA102(F),BE102(B)",
+            "rollno": "TLY16EC017"
+        },
+        {
+            "mark": "PH100(A+), BE110(O), ME100(B+), EE100(B+), PH110(A), ME110(A), EE110(A+), MA102(O),BE102(A+)",
+            "rollno": "TLY16EC018"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), ME100(C), EE100(C), PH110(A+), ME110(C), EE110(B+), MA102(F),BE102(B)",
+            "rollno": "TLY16EC019"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(C), EE100(F), PH110(A+), ME110(B+), EE110(A), MA102(F),BE102(B+)",
+            "rollno": "TLY16EC020"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(B), EE100(F), PH110(B+), ME110(B+), EE110(A+), MA102(F),BE102(A)",
+            "rollno": "TLY16EC021"
+        },
+        {
+            "mark": "PH100(B), BE110(F), ME100(C), EE100(F), PH110(O), ME110(B+), EE110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC022"
+        },
+        {
+            "mark": "PH100(B+), BE110(O), ME100(B+), EE100(B+), PH110(O), ME110(B+), EE110(O), MA102(O),BE102(A+)",
+            "rollno": "TLY16EC023"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), ME100(C), EE100(C), PH110(B+), ME110(A), EE110(A), MA102(F),BE102(B+)",
+            "rollno": "TLY16EC024"
+        },
+        {
+            "mark": "PH100(B), BE110(B), ME100(B), EE100(B+), PH110(A), ME110(B+), EE110(B+), MA102(B+),BE102(A)",
+            "rollno": "TLY16EC025"
+        },
+        {
+            "mark": "PH100(B), BE110(B), ME100(B+), EE100(C), PH110(A+), ME110(A), EE110(B+), MA102(A+),BE102(A+)",
+            "rollno": "TLY16EC026"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), ME100(B), EE100(B), PH110(B+), ME110(B+), EE110(A), MA102(A),BE102(A)",
+            "rollno": "TLY16EC027"
+        },
+        {
+            "mark": "PH100(B+), BE110(O), ME100(B+), EE100(B+), PH110(A), ME110(B+), EE110(A), MA102(A+),BE102(A)",
+            "rollno": "TLY16EC028"
+        },
+        {
+            "mark": "PH100(A), BE110(A+), ME100(B), EE100(B+), PH110(O), ME110(B+), EE110(B+), MA102(O),BE102(A+)",
+            "rollno": "TLY16EC029"
+        },
+        {
+            "mark": "PH100(B), BE110(B+), ME100(C), EE100(C), PH110(A+), ME110(B+), EE110(B+), MA102(B+),BE102(A)",
+            "rollno": "TLY16EC030"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), ME100(C), EE100(F), PH110(B+), ME110(B+), EE110(A), MA102(B+),BE102(A+)",
+            "rollno": "TLY16EC031"
+        },
+        {
+            "mark": "PH100(O), BE110(O), ME100(B+), EE100(A), PH110(O), ME110(B+), EE110(A+), MA102(O),BE102(A+)",
+            "rollno": "TLY16EC032"
+        },
+        {
+            "mark": "PH100(B+), BE110(A), ME100(F), EE100(B), PH110(O), ME110(A), EE110(A), MA102(A+),BE102(B+)",
+            "rollno": "TLY16EC033"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), ME100(B+), EE100(B+), PH110(O), ME110(B+), EE110(A+), MA102(B),BE102(A)",
+            "rollno": "TLY16EC034"
+        },
+        {
+            "mark": "PH100(B), BE110(F), ME100(B), EE100(B), PH110(O), ME110(B+), EE110(B+), MA102(B),BE102(A)",
+            "rollno": "TLY16EC035"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(B), EE100(B), PH110(B+), ME110(B+), EE110(B+), MA102(F),BE102(B+)",
+            "rollno": "TLY16EC036"
+        },
+        {
+            "mark": "PH100(B), BE110(A), ME100(B), EE100(C), PH110(A+), ME110(B+), EE110(A), MA102(A),BE102(A)",
+            "rollno": "TLY16EC037"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), ME100(B), EE100(B+), PH110(O), ME110(A), EE110(A+), MA102(B),BE102(A+)",
+            "rollno": "TLY16EC038"
+        },
+        {
+            "mark": "PH100(C), BE110(B), ME100(Absent), EE100(C), PH110(A+), ME110(B+), EE110(A), MA102(B+),BE102(A+)",
+            "rollno": "TLY16EC039"
+        },
+        {
+            "mark": "PH100(A+), BE110(B+), ME100(B+), EE100(A+), PH110(O), ME110(A), EE110(A+), MA102(O),BE102(A+)",
+            "rollno": "TLY16EC040"
+        },
+        {
+            "mark": "PH100(B), BE110(B), ME100(B), EE100(B+), PH110(A+), ME110(B+), EE110(B+), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC041"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), ME100(B+), EE100(B+), PH110(O), ME110(A), EE110(A+), MA102(B+),BE102(B+)",
+            "rollno": "TLY16EC042"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), ME100(B), EE100(B+), PH110(O), ME110(A), EE110(A), MA102(B+),BE102(B+)",
+            "rollno": "TLY16EC043"
+        },
+        {
+            "mark": "PH100(B), BE110(F), ME100(A), EE100(B), PH110(O), ME110(B+), EE110(B), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC044"
+        },
+        {
+            "mark": "PH100(A), BE110(B+), ME100(B+), EE100(A+), PH110(A), ME110(A), EE110(O), MA102(A+),BE102(A+)",
+            "rollno": "TLY16EC045"
+        },
+        {
+            "mark": "PH100(F), BE110(B), ME100(C), EE100(F), PH110(A+), ME110(A+), EE110(A), MA102(C),BE102(A)",
+            "rollno": "TLY16EC046"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(C), EE100(F), PH110(B+), ME110(B+), EE110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC047"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), ME100(B+), EE100(C), PH110(A+), ME110(B+), EE110(A), MA102(C),BE102(B+)",
+            "rollno": "TLY16EC048"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(C), EE100(F), PH110(O), ME110(B+), EE110(B+), MA102(F),BE102(F)",
+            "rollno": "TLY16EC049"
+        },
+        {
+            "mark": "PH100(B), BE110(F), ME100(B), EE100(A), PH110(O), ME110(B+), EE110(A), MA102(A+),BE102(B)",
+            "rollno": "TLY16EC050"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), ME100(B), EE100(B+), PH110(A), ME110(B+), EE110(A+), MA102(B+),BE102(B)",
+            "rollno": "TLY16EC051"
+        },
+        {
+            "mark": "PH100(B), BE110(F), ME100(B+), EE100(B), PH110(O), ME110(B+), EE110(A+), MA102(C),BE102(B+)",
+            "rollno": "TLY16EC052"
+        },
+        {
+            "mark": "PH100(Absent), BE110(FE), ME100(Absent), EE100(FE), PH110(A), ME110(B), EE110(B+),MA102(Absent), BE102(FE)",
+            "rollno": "TLY16EC053"
+        },
+        {
+            "mark": "PH100(B), BE110(B+), ME100(B), EE100(B+), PH110(O), ME110(A), EE110(A+), MA102(O),BE102(B+)",
+            "rollno": "TLY16EC054"
+        },
+        {
+            "mark": "PH100(F), BE110(B), ME100(C), EE100(C), PH110(B+), ME110(B+), EE110(B+), MA102(C),BE102(B)",
+            "rollno": "TLY16EC055"
+        },
+        {
+            "mark": "PH100(B), BE110(F), ME100(B+), EE100(B), PH110(A), ME110(B), EE110(B+), MA102(C),BE102(B+)",
+            "rollno": "TLY16EC056"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), ME100(B), EE100(C), PH110(A), ME110(B), EE110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC057"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(B), EE100(B), PH110(B+), ME110(A), EE110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC058"
+        },
+        {
+            "mark": "PH100(P), BE110(F), ME100(F), EE100(F), PH110(B+), ME110(B+), EE110(A), MA102(F),BE102(B+)",
+            "rollno": "TLY16EC059"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(F), EE100(C), PH110(A+), ME110(B), EE110(A), MA102(B),BE102(B)",
+            "rollno": "TLY16EC060"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(B), EE100(B), PH110(A+), ME110(B), EE110(B+), MA102(B),BE102(B)",
+            "rollno": "TLY16EC061"
+        },
+        {
+            "mark": "PH100(B), BE110(B+), ME100(B), EE100(B), PH110(A), ME110(A), EE110(B+), MA102(A+),BE102(B)",
+            "rollno": "TLY16EC062"
+        },
+        {
+            "mark": "PH100(B+), BE110(F), ME100(B), EE100(B), PH110(A), ME110(A), EE110(A+), MA102(A),BE102(B+)",
+            "rollno": "TLY16EC063"
+        },
+        {
+            "mark": "PH100(A), BE110(B), ME100(A), EE100(B+), PH110(A+), ME110(A), EE110(A+), MA102(A+),BE102(B+)",
+            "rollno": "TLY16EC064"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(B), EE100(B), PH110(A), ME110(B+), EE110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC066"
+        },
+        {
+            "mark": "PH100(B+), BE110(B), ME100(B), EE100(A), PH110(B+), ME110(A), EE110(A+), MA102(O),BE102(B+)",
+            "rollno": "TLY16EC067"
+        },
+        {
+            "mark": "PH100(A), BE110(B+), ME100(B), EE100(B+), PH110(A+), ME110(B+), EE110(B+), MA102(A),BE102(B)",
+            "rollno": "TLY16EC068"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), ME100(B), EE100(A), PH110(A), ME110(A), EE110(A+), MA102(B+),BE102(B+)",
+            "rollno": "TLY16EC069"
+        },
+        {
+            "mark": "PH100(A), BE110(B+), ME100(A), EE100(B+), PH110(A+), ME110(B+), EE110(A), MA102(A),BE102(B)",
+            "rollno": "TLY16EC070"
+        },
+        {
+            "mark": "PH100(B), BE110(F), ME100(C), EE100(B), PH110(A), ME110(B+), EE110(A), MA102(B+),BE102(B+)",
+            "rollno": "TLY16EC071"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), ME100(C), EE100(F), PH110(A), ME110(B+), EE110(A), MA102(F),BE102(B)",
+            "rollno": "TLY16EC072"
+        },
+        {
+            "mark": "PH100(F), BE110(A), ME100(F), EE100(F), PH110(A), ME110(B), EE110(B+), MA102(B),BE102(B)",
+            "rollno": "TLY16EC073"
+        },
+        {
+            "mark": "PH100(B+), BE110(F), ME100(B), EE100(O), PH110(A+), ME110(B+), EE110(B+), MA102(B+),BE102(B)",
+            "rollno": "TLY16EC074"
+        },
+        {
+            "mark": "PH100(B), BE110(B), ME100(A), EE100(B+), PH110(B+), ME110(B+), EE110(B+), MA102(C),BE102(B+)",
+            "rollno": "TLY16EC075"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(C), EE100(F), PH110(B+), ME110(B+), EE110(B+), MA102(F),BE102(B+)",
+            "rollno": "TLY16EC076"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(F), EE100(C), PH110(A), ME110(B), EE110(B+), MA102(B),BE102(B)",
+            "rollno": "TLY16EC077"
+        },
+        {
+            "mark": "PH100(A), BE110(B+), ME100(B+), EE100(B+), PH110(A), ME110(A), EE110(O), MA102(B+),BE102(B+)",
+            "rollno": "TLY16EC078"
+        },
+        {
+            "mark": "PH100(B), BE110(F), ME100(C), EE100(B), PH110(A), ME110(B+), EE110(A+), MA102(B),BE102(B)",
+            "rollno": "TLY16EC079"
+        },
+        {
+            "mark": "PH100(C), BE110(B), ME100(C), EE100(F), PH110(B+), ME110(B+), EE110(B+), MA102(F),BE102(B)",
+            "rollno": "TLY16EC080"
+        },
+        {
+            "mark": "PH100(B+), BE110(B), ME100(B+), EE100(B+), PH110(A+), ME110(B+), EE110(A+), MA102(B+),BE102(B+)",
+            "rollno": "TLY16EC081"
+        },
+        {
+            "mark": "PH100(C), BE110(A), ME100(B), EE100(B+), PH110(B+), ME110(A), EE110(A), MA102(B+),BE102(B)",
+            "rollno": "TLY16EC082"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(P), EE100(F), PH110(B+), ME110(A), EE110(A), MA102(F),BE102(B)",
+            "rollno": "TLY16EC083"
+        },
+        {
+            "mark": "PH100(B+), BE110(A), ME100(B), EE100(C), PH110(B+), ME110(B), EE110(B+), MA102(O),BE102(B)",
+            "rollno": "TLY16EC084"
+        },
+        {
+            "mark": "PH100(F), BE110(A), ME100(C), EE100(C), PH110(A), ME110(B), EE110(B+), MA102(B),BE102(B+)",
+            "rollno": "TLY16EC085"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(B), EE100(C), PH110(A), ME110(B+), EE110(O), MA102(B+),BE102(B)",
+            "rollno": "TLY16EC086"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(C), EE100(F), PH110(A+), ME110(B), EE110(B+), MA102(C),BE102(B)",
+            "rollno": "TLY16EC087"
+        },
+        {
+            "mark": "PH100(B), BE110(B+), ME100(F), EE100(B), PH110(A+), ME110(A), EE110(A), MA102(B),BE102(B)",
+            "rollno": "TLY16EC088"
+        },
+        {
+            "mark": "PH100(O), BE110(A+), ME100(A+), EE100(A), PH110(A+), ME110(A), EE110(O), MA102(A),BE102(B+)",
+            "rollno": "TLY16EC090"
+        },
+        {
+            "mark": "PH100(C), BE110(F), ME100(C), EE100(F), PH110(B), ME110(B+), EE110(B), MA102(F),BE102(B+)",
+            "rollno": "TLY16EC091"
+        },
+        {
+            "mark": "PH100(F), BE110(F), ME100(B), EE100(C), PH110(B+), ME110(B+), EE110(B+), MA102(C),BE102(B+)",
+            "rollno": "TLY16EC092"
+        },
+        {
+            "mark": "PH100(F), BE110(A), ME100(C), EE100(F), PH110(A+), ME110(B), EE110(A+), MA102(C),BE102(B)",
+            "rollno": "TLY16EC093"
+        },
+        {
+            "mark": "BE100(F)",
+            "rollno": "TLY15EE004"
+        },
+        {
+            "mark": "CY100(C), BE100(C), ME100(C), EC100(B), CY110(O), ME110(B+), EC110(A), MA102(C),BE102(B+)",
+            "rollno": "TLY16EE001"
+        },
+        {
+            "mark": "CY100(B+), BE100(B), ME100(B), EC100(A+), CY110(O), ME110(A), EC110(A+), MA102(B+),BE102(B+)",
+            "rollno": "TLY16EE002"
+        },
+        {
+            "mark": "CY100(C), BE100(C), ME100(C), EC100(B+), CY110(A+), ME110(B+), EC110(A), MA102(B),BE102(B)",
+            "rollno": "TLY16EE003"
+        },
+        {
+            "mark": "CY100(C), BE100(B), ME100(C), EC100(B+), CY110(O), ME110(B), EC110(B+), MA102(B+),BE102(B)",
+            "rollno": "TLY16EE004"
+        },
+        {
+            "mark": "CY100(B+), BE100(B+), ME100(B+), EC100(A+), CY110(A+), ME110(A), EC110(A+), MA102(A),BE102(B+)",
+            "rollno": "TLY16EE005"
+        },
+        {
+            "mark": "CY100(C), BE100(F), ME100(B), EC100(B+), CY110(O), ME110(B+), EC110(A+), MA102(B),BE102(B+)",
+            "rollno": "TLY16EE006"
+        },
+        {
+            "mark": "CY100(C), BE100(B), ME100(C), EC100(B+), CY110(B+), ME110(B+), EC110(A+), MA102(B),BE102(B+)",
+            "rollno": "TLY16EE007"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(C), EC100(C), CY110(A+), ME110(B), EC110(B+), MA102(F),BE102(B)",
+            "rollno": "TLY16EE008"
+        },
+        {
+            "mark": "CY100(F), BE100(C), ME100(F), EC100(B), CY110(O), ME110(B), EC110(A), MA102(B),BE102(B)",
+            "rollno": "TLY16EE009"
+        },
+        {
+            "mark": "CY100(C), BE100(F), ME100(F), EC100(B), CY110(O), ME110(B+), EC110(B+), MA102(P),BE102(B)",
+            "rollno": "TLY16EE010"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(C), EC100(B), CY110(A), ME110(C), EC110(B+), MA102(F),BE102(B)",
+            "rollno": "TLY16EE011"
+        },
+        {
+            "mark": "CY100(A), BE100(B), ME100(B+), EC100(A), CY110(O), ME110(A), EC110(A+), MA102(O),BE102(B+)",
+            "rollno": "TLY16EE012"
+        },
+        {
+            "mark": "CY100(C), BE100(F), ME100(B), EC100(B+), CY110(O), ME110(B), EC110(A+), MA102(B+),BE102(B)",
+            "rollno": "TLY16EE013"
+        },
+        {
+            "mark": "CY100(A), BE100(B+), ME100(B), EC100(B+), CY110(O), ME110(B+), EC110(B+), MA102(O),BE102(B+)",
+            "rollno": "TLY16EE014"
+        },
+        {
+            "mark": "CY100(B), BE100(B), ME100(B), EC100(B+), CY110(O), ME110(B), EC110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EE015"
+        },
+        {
+            "mark": "CY100(C), BE100(C), ME100(B), EC100(B+), CY110(O), ME110(B), EC110(A), MA102(A+),BE102(B+)",
+            "rollno": "TLY16EE016"
+        },
+        {
+            "mark": "CY100(B), BE100(B+), ME100(B+), EC100(B), CY110(O), ME110(B+), EC110(A+), MA102(O),BE102(B+)",
+            "rollno": "TLY16EE017"
+        },
+        {
+            "mark": "CY100(C), BE100(F), ME100(C), EC100(C), CY110(A+), ME110(B), EC110(A), MA102(B),BE102(B)",
+            "rollno": "TLY16EE018"
+        },
+        {
+            "mark": "CY100(P), BE100(F), ME100(C), EC100(F), CY110(A+), ME110(B+), EC110(B+), MA102(C),BE102(B+)",
+            "rollno": "TLY16EE019"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(F), EC100(F), CY110(O), ME110(C), EC110(B+), MA102(F),BE102(B)",
+            "rollno": "TLY16EE020"
+        },
+        {
+            "mark": "CY100(B), BE100(F), ME100(C), EC100(C), CY110(A+), ME110(B+), EC110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EE021"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(F), EC100(F), CY110(O), ME110(B), EC110(B+), MA102(F),BE102(B)",
+            "rollno": "TLY16EE022"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(C), EC100(F), CY110(A+), ME110(B), EC110(A), MA102(F),BE102(B+)",
+            "rollno": "TLY16EE023"
+        },
+        {
+            "mark": "CY100(C), BE100(B), ME100(C), EC100(B), CY110(O), ME110(A), EC110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EE024"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(C), EC100(C), CY110(A), ME110(B+), EC110(A), MA102(F),BE102(B+)",
+            "rollno": "TLY16EE025"
+        },
+        {
+            "mark": "CY100(P), BE100(F), ME100(F), EC100(C), CY110(A+), ME110(C), EC110(B+), MA102(F),BE102(B)",
+            "rollno": "TLY16EE027"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(F), EC100(P), CY110(A+), ME110(B), EC110(A), MA102(F),BE102(B+)",
+            "rollno": "TLY16EE028"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(C), EC100(C), CY110(A+), ME110(B+), EC110(A), MA102(C),BE102(B)",
+            "rollno": "TLY16EE029"
+        },
+        {
+            "mark": "CY100(C), BE100(C), ME100(C), EC100(B), CY110(A+), ME110(B+), EC110(B+), MA102(C),BE102(B+)",
+            "rollno": "TLY16EE030"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(P), EC100(F), CY110(A+), ME110(B), EC110(A), MA102(P),BE102(B)",
+            "rollno": "TLY16EE031"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(P), EC100(P), CY110(A), ME110(C), EC110(B+), MA102(B),BE102(B)",
+            "rollno": "TLY16EE032"
+        },
+        {
+            "mark": "CY100(A), BE100(B+), ME100(B+), EC100(A), CY110(O), ME110(A+), EC110(A+), MA102(O),BE102(O)",
+            "rollno": "TLY16EE033"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(C), EC100(B), CY110(O), ME110(B+), EC110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EE034"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(F), EC100(C), CY110(O), ME110(B), EC110(A), MA102(F),BE102(B+)",
+            "rollno": "TLY16EE035"
+        },
+        {
+            "mark": "CY100(B), BE100(C), ME100(C), EC100(C), CY110(O), ME110(A), EC110(A+), MA102(C),BE102(B+)",
+            "rollno": "TLY16EE036"
+        },
+        {
+            "mark": "CY100(B), BE100(C), ME100(B+), EC100(B), CY110(O), ME110(A), EC110(A), MA102(B),BE102(A)",
+            "rollno": "TLY16EE037"
+        },
+        {
+            "mark": "CY100(B), BE100(B), ME100(B), EC100(B), CY110(O), ME110(A), EC110(A+), MA102(A+),BE102(B+)",
+            "rollno": "TLY16EE038"
+        },
+        {
+            "mark": "CY100(C), BE100(C), ME100(B), EC100(B), CY110(O), ME110(B+), EC110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16EE039"
+        },
+        {
+            "mark": "CY100(P), BE100(C), ME100(C), EC100(C), CY110(O), ME110(B+), EC110(B+), MA102(B+),BE102(B+)",
+            "rollno": "TLY16EE040"
+        },
+        {
+            "mark": "CY100(C), BE100(B), ME100(B), EC100(B), CY110(A+), ME110(B+), EC110(A), MA102(B+),BE102(A+)",
+            "rollno": "TLY16EE041"
+        },
+        {
+            "mark": "CY100(P), BE100(C), ME100(B), EC100(B), CY110(O), ME110(B+), EC110(A), MA102(C),BE102(B+)",
+            "rollno": "TLY16EE042"
+        },
+        {
+            "mark": "CY100(C), BE100(F), ME100(C), EC100(C), CY110(A), ME110(B+), EC110(A), MA102(B),BE102(B)",
+            "rollno": "TLY16EE043"
+        },
+        {
+            "mark": "CY100(B+), BE100(B), ME100(B+), EC100(B+), CY110(O), ME110(A), EC110(O), MA102(O),BE102(A+)",
+            "rollno": "TLY16EE044"
+        },
+        {
+            "mark": "CY100(C), BE100(B), ME100(B+), EC100(B), CY110(A+), ME110(A), EC110(A), MA102(A),BE102(A)",
+            "rollno": "TLY16EE045"
+        },
+        {
+            "mark": "CY100(B), BE100(C), ME100(B), EC100(B), CY110(O), ME110(B+), EC110(A), MA102(B+),BE102(B+)",
+            "rollno": "TLY16EE046"
+        },
+        {
+            "mark": "CY100(F), BE100(F), ME100(F), EC100(F), CY110(A+), ME110(B+), EC110(B+), MA102(B),BE102(B)",
+            "rollno": "TLY16EE047"
+        },
+        {
+            "mark": "CY100(C), BE100(C), ME100(B), EC100(B), CY110(B+), ME110(C), EC110(A), MA102(B+),BE102(B+)",
+            "rollno": "TLY16EE048"
+        },
+        {
+            "mark": "CY100(B), BE100(B), ME100(B), EC100(B), CY110(O), ME110(B+), EC110(A+), MA102(B),BE102(B+)",
+            "rollno": "TLY16EE049"
+        },
+        {
+            "mark": "CY100(P), BE100(F), CE100(C), EC100(C), CY110(A), CE110(B+), EC110(A), MA102(B),BE102(B)",
+            "rollno": "TLY16ME001"
+        },
+        {
+            "mark": "CY100(F), BE100(F), CE100(C), EC100(P), CY110(A+), CE110(B+), EC110(A+), MA102(F),BE102(B)",
+            "rollno": "TLY16ME002"
+        },
+        {
+            "mark": "CY100(B), BE100(C), CE100(B+), EC100(B+), CY110(O), CE110(A), EC110(O), MA102(B+),BE102(B)",
+            "rollno": "TLY16ME003"
+        },
+        {
+            "mark": "CY100(B), BE100(C), CE100(C), EC100(B+), CY110(O), CE110(A), EC110(A), MA102(B),BE102(B+)",
+            "rollno": "TLY16ME004"
+        },
+        {
+            "mark": "CY100(F), BE100(F), CE100(F), EC100(C), CY110(O), CE110(A), EC110(B+), MA102(B),BE102(C)",
+            "rollno": "TLY16ME005"
+        },
+        {
+            "mark": "CY100(F), BE100(P), CE100(C), EC100(B), CY110(O), CE110(A), EC110(O), MA102(B),BE102(B)",
+            "rollno": "TLY16ME006"
+        },
+        {
+            "mark": "CY100(B), BE100(F), CE100(B+), EC100(B+), CY110(O), CE110(A), EC110(A+), MA102(C),BE102(B+)",
+            "rollno": "TLY16ME007"
+        },
+        {
+            "mark": "CY100(F), BE100(F), CE100(C), EC100(B), CY110(B+), CE110(B+), EC110(A), MA102(C),BE102(B)",
+            "rollno": "TLY16ME008"
+        },
+        {
+            "mark": "CY100(P), BE100(F), CE100(C), EC100(B), CY110(A), CE110(B+), EC110(B+), MA102(C),BE102(P)",
+            "rollno": "TLY16ME009"
+        },
+        {
+            "mark": "CY100(F), BE100(F), CE100(C), EC100(C), CY110(A), CE110(B+), EC110(A+), MA102(F),BE102(B)",
+            "rollno": "TLY16ME010"
+        },
+        {
+            "mark": "CY100(C), BE100(C), CE100(B+), EC100(B+), CY110(O), CE110(B+), EC110(A), MA102(B),BE102(B)",
+            "rollno": "TLY16ME011"
+        },
+        {
+            "mark": "CY100(C), BE100(B), CE100(B+), EC100(B), CY110(A+), CE110(A+), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16ME012"
+        },
+        {
+            "mark": "CY100(F), BE100(FE), CE100(C), EC100(F), CY110(B+), CE110(B+), EC110(B+), MA102(FE),BE102(B)",
+            "rollno": "TLY16ME013"
+        },
+        {
+            "mark": "CY100(C), BE100(F), CE100(B+), EC100(C), CY110(A), CE110(B+), EC110(O), MA102(A),BE102(B)",
+            "rollno": "TLY16ME014"
+        },
+        {
+            "mark": "CY100(C), BE100(F), CE100(B), EC100(C), CY110(O), CE110(B+), EC110(O), MA102(F),BE102(B)",
+            "rollno": "TLY16ME015"
+        },
+        {
+            "mark": "CY100(C), BE100(F), CE100(C), EC100(C), CY110(A+), CE110(A), EC110(O), MA102(B),BE102(B)",
+            "rollno": "TLY16ME016"
+        },
+        {
+            "mark": "CY100(B+), BE100(F), CE100(B), EC100(A), CY110(O), CE110(A), EC110(O), MA102(A+),BE102(B+)",
+            "rollno": "TLY16ME017"
+        },
+        {
+            "mark": "CY100(F), BE100(F), CE100(C), EC100(P), CY110(A), CE110(B), EC110(B+), MA102(F),BE102(C)",
+            "rollno": "TLY16ME018"
+        },
+        {
+            "mark": "CY100(F), BE100(C), CE100(B+), EC100(C), CY110(A+), CE110(B+), EC110(O), MA102(B+),BE102(B+)",
+            "rollno": "TLY16ME019"
+        },
+        {
+            "mark": "CY100(F), BE100(C), CE100(B+), EC100(C), CY110(O), CE110(B+), EC110(A+), MA102(B),BE102(A)",
+            "rollno": "TLY16ME020"
+        },
+        {
+            "mark": "CY100(F), BE100(F), CE100(C), EC100(P), CY110(B+), CE110(B+), EC110(A+), MA102(F),BE102(B)",
+            "rollno": "TLY16ME021"
+        },
+        {
+            "mark": "CY100(B+), BE100(B), CE100(B+), EC100(B), CY110(O), CE110(A), EC110(O), MA102(A),BE102(B)",
+            "rollno": "TLY16ME022"
+        },
+        {
+            "mark": "CY100(B), BE100(B), CE100(B+), EC100(B), CY110(O), CE110(A+), EC110(A+), MA102(B),BE102(A+)",
+            "rollno": "TLY16ME023"
+        },
+        {
+            "mark": "CY100(B), BE100(C), CE100(C), EC100(C), CY110(O), CE110(B+), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16ME024"
+        },
+        {
+            "mark": "CY100(A), BE100(B+), CE100(A), EC100(B), CY110(O), CE110(A+), EC110(A+), MA102(B),BE102(B+)",
+            "rollno": "TLY16ME025"
+        },
+        {
+            "mark": "CY100(B+), BE100(B), CE100(B), EC100(C), CY110(O), CE110(A), EC110(A+), MA102(F),BE102(B)",
+            "rollno": "TLY16ME026"
+        },
+        {
+            "mark": "CY100(B), BE100(B), CE100(B), EC100(B+), CY110(O), CE110(B+), EC110(O), MA102(A),BE102(A)",
+            "rollno": "TLY16ME027"
+        },
+        {
+            "mark": "CY100(C), BE100(FE), CE100(F), EC100(P), CY110(A), CE110(B+), EC110(B+), MA102(A),BE102(C)",
+            "rollno": "TLY16ME028"
+        },
+        {
+            "mark": "CY100(B+), BE100(B+), CE100(B), EC100(B), CY110(O), CE110(A), EC110(A+), MA102(A),BE102(B)",
+            "rollno": "TLY16ME029"
+        },
+        {
+            "mark": "CY100(C), BE100(C), CE100(B), EC100(C), CY110(A), CE110(B+), EC110(A+), MA102(F),BE102(B)",
+            "rollno": "TLY16ME030"
+        },
+        {
+            "mark": "CY100(C), BE100(C), CE100(B), EC100(B), CY110(O), CE110(B+), EC110(A), MA102(F),BE102(B)",
+            "rollno": "TLY16ME031"
+        },
+        {
+            "mark": "CY100(F), BE100(F), CE100(B+), EC100(B), CY110(O), CE110(B+), EC110(O), MA102(C),BE102(B)",
+            "rollno": "TLY16ME032"
+        },
+        {
+            "mark": "CY100(B), BE100(B), CE100(B), EC100(B), CY110(O), CE110(A), EC110(O), MA102(A+),BE102(B+)",
+            "rollno": "TLY16ME033"
+        },
+        {
+            "mark": "CY100(B+), BE100(C), CE100(C), EC100(C), CY110(O), CE110(A), EC110(O), MA102(A+),BE102(B+)",
+            "rollno": "TLY16ME034"
+        },
+        {
+            "mark": "CY100(B), BE100(C), CE100(B), EC100(C), CY110(O), CE110(A), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16ME035"
+        },
+        {
+            "mark": "CY100(C), BE100(C), CE100(C), EC100(C), CY110(A), CE110(B+), EC110(A), MA102(B+),BE102(B)",
+            "rollno": "TLY16ME036"
+        },
+        {
+            "mark": "CY100(B), BE100(B), CE100(B), EC100(B), CY110(O), CE110(A), EC110(O), MA102(A),BE102(B+)",
+            "rollno": "TLY16ME037"
+        },
+        {
+            "mark": "CY100(B), BE100(C), CE100(C), EC100(C), CY110(O), CE110(A), EC110(A+), MA102(B+),BE102(B)",
+            "rollno": "TLY16ME038"
+        },
+        {
+            "mark": "CY100(B), BE100(B), CE100(B+), EC100(B), CY110(O), CE110(B+), EC110(O), MA102(A+),BE102(B)",
+            "rollno": "TLY16ME039"
+        },
+        {
+            "mark": "CY100(C), BE100(C), CE100(C), EC100(C), CY110(O), CE110(B+), EC110(A), MA102(C),BE102(C)",
+            "rollno": "TLY16ME040"
+        },
+        {
+            "mark": "CY100(F), BE100(FE), CE100(F), EC100(F), CY110(A), CE110(B+), EC110(B+), MA102(F),BE102(P)",
+            "rollno": "TLY16ME041"
+        },
+        {
+            "mark": "CY100(B), BE100(B), CE100(B+), EC100(B+), CY110(A+), CE110(A+), EC110(O), MA102(B+),BE102(A)",
+            "rollno": "TLY16ME042"
+        },
+        {
+            "mark": "CY100(B+), BE100(A+), CE100(B+), EC100(B+), CY110(O), CE110(A), EC110(O), MA102(O),BE102(B+)",
+            "rollno": "TLY16ME043"
+        },
+        {
+            "mark": "CY100(C), BE100(B), CE100(C), EC100(B), CY110(A), CE110(B+), EC110(O), MA102(O),BE102(B)",
+            "rollno": "TLY16ME044"
+        },
+        {
+            "mark": "CY100(B+), BE100(F), CE100(B), EC100(B+), CY110(O), CE110(B+), EC110(O), MA102(O),BE102(C)",
+            "rollno": "TLY16ME045"
+        },
+        {
+            "mark": "CY100(B), BE100(C), CE100(B+), EC100(C), CY110(O), CE110(A), EC110(O), MA102(C),BE102(B+)",
+            "rollno": "TLY16ME046"
+        },
+        {
+            "mark": "CY100(F), BE100(C), CE100(C), EC100(C), CY110(A), CE110(B+), EC110(A+), MA102(B+),BE102(B)",
+            "rollno": "TLY16ME047"
+        },
+        {
+            "mark": "CY100(B), BE100(C), CE100(A), EC100(B), CY110(O), CE110(A+), EC110(O), MA102(B+),BE102(B+)",
+            "rollno": "TLY16ME048"
+        },
+        {
+            "mark": "CY100(C), BE100(F), CE100(B), EC100(C), CY110(O), CE110(A), EC110(O), MA102(C),BE102(C)",
+            "rollno": "TLY16ME049"
+        },
+        {
+            "mark": "CY100(B+), BE100(B), CE100(B), EC100(B), CY110(O), CE110(B+), EC110(O), MA102(B+),BE102(B+)",
+            "rollno": "TLY16ME050"
+        },
+        {
+            "mark": "CY100(F), BE100(F), CE100(P), EC100(C), CY110(A+), CE110(B+), EC110(O), MA102(C),BE102(B)",
+            "rollno": "TLY16ME051"
+        },
+        {
+            "mark": "CY100(C), BE100(F), CE100(B+), EC100(C), CY110(O), CE110(B+), EC110(A+), MA102(B),BE102(B)",
+            "rollno": "TLY16ME052"
+        },
+        {
+            "mark": "CY100(P), BE100(F), CE100(C), EC100(C), CY110(O), CE110(B+), EC110(A+), MA102(C),BE102(B)",
+            "rollno": "TLY16ME053"
+        },
+        {
+            "mark": "CY100(C), BE100(C), CE100(C), EC100(B), CY110(O), CE110(B+), EC110(A), MA102(A),BE102(B)",
+            "rollno": "TLY16ME054"
+        },
+        {
+            "mark": "CY100(B), BE100(A), CE100(B), EC100(B+), CY110(O), CE110(O), EC110(O), MA102(O),BE102(A)",
+            "rollno": "TLY16ME055"
+        },
+        {
+            "mark": "CY100(C), BE100(C), CE100(B), EC100(B), CY110(O), CE110(B+), EC110(O), MA102(A),BE102(C)",
+            "rollno": "TLY16ME056"
+        },
+        {
+            "mark": "CY100(B+), BE100(B), CE100(B+), EC100(B+), CY110(O), CE110(B+), EC110(O), MA102(O),BE102(B+)",
+            "rollno": "TLY16ME057"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), EE100(B+), PH110(O), EE110(A), MA102(A+), BE102(A+), CS100(A),CS120(O)",
+            "rollno": "TLY16CS001"
+        },
+        {
+            "mark": "PH100(C), BE110(O), EE100(B), PH110(A+), EE110(A), MA102(B+), BE102(B), CS100(A),CS120(O)",
+            "rollno": "TLY16CS002"
+        },
+        {
+            "mark": "PH100(B), BE110(B+), EE100(B+), PH110(B+), EE110(A+), MA102(C), BE102(A), CS100(A),CS120(O)",
+            "rollno": "TLY16CS003"
+        },
+        {
+            "mark": "PH100(B), BE110(A), EE100(B), PH110(O), EE110(B+), MA102(O), BE102(B), CS100(B),CS120(O)",
+            "rollno": "TLY16CS004"
+        },
+        {
+            "mark": "PH100(C), BE110(F), EE100(C), PH110(A+), EE110(B+), MA102(C), BE102(B+), CS100(C),CS120(B+)",
+            "rollno": "TLY16CS005"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), EE100(B), PH110(A+), EE110(B+), MA102(B+), BE102(B+), CS100(C),CS120(A)",
+            "rollno": "TLY16CS006"
+        },
+        {
+            "mark": "PH100(B+), BE110(F), EE100(A), PH110(O), EE110(A), MA102(O), BE102(A), CS100(B),CS120(O)",
+            "rollno": "TLY16CS007"
+        },
+        {
+            "mark": "PH100(B), BE110(A+), EE100(B), PH110(B+), EE110(B+), MA102(C), BE102(B+), CS100(A),CS120(O)",
+            "rollno": "TLY16CS008"
+        },
+        {
+            "mark": "PH100(F), BE110(A), EE100(C), PH110(A+), EE110(B+), MA102(C), BE102(B+), CS100(C),CS120(B+)",
+            "rollno": "TLY16CS009"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), EE100(B+), PH110(O), EE110(B+), MA102(A+), BE102(A), CS100(B),CS120(O)",
+            "rollno": "TLY16CS010"
+        },
+        {
+            "mark": "PH100(B), BE110(B), EE100(B), PH110(A), EE110(A), MA102(B), BE102(A+), CS100(B),CS120(B+)",
+            "rollno": "TLY16CS011"
+        },
+        {
+            "mark": "PH100(B), BE110(B), EE100(B+), PH110(A), EE110(B+), MA102(B+), BE102(A+), CS100(B),CS120(A+)",
+            "rollno": "TLY16CS012"
+        },
+        {
+            "mark": "PH100(B), BE110(B+), EE100(A+), PH110(O), EE110(A), MA102(O), BE102(A+), CS100(B+),CS120(O)",
+            "rollno": "TLY16CS013"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EE100(F), PH110(B+), EE110(B+), MA102(B+), BE102(B+), CS100(F),CS120(A)",
+            "rollno": "TLY16CS014"
+        },
+        {
+            "mark": "PH100(B), BE110(B), EE100(B), PH110(B+), EE110(A), MA102(B+), BE102(B), CS100(B),CS120(A)",
+            "rollno": "TLY16CS015"
+        },
+        {
+            "mark": "PH100(B+), BE110(A+), EE100(B), PH110(A+), EE110(B+), MA102(O), BE102(B+), CS100(O),CS120(O)",
+            "rollno": "TLY16CS016"
+        },
+        {
+            "mark": "PH100(B+), BE110(O), EE100(B+), PH110(O), EE110(A+), MA102(A+), BE102(A), CS100(B+),CS120(A+)",
+            "rollno": "TLY16CS017"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EE100(F), PH110(A), EE110(B), MA102(B), BE102(B+), CS100(F),CS120(B+)",
+            "rollno": "TLY16CS018"
+        },
+        {
+            "mark": "PH100(C), BE110(A+), EE100(B), PH110(A+), EE110(A+), MA102(B), BE102(A+), CS100(B),CS120(O)",
+            "rollno": "TLY16CS019"
+        },
+        {
+            "mark": "PH100(B+), BE110(A+), EE100(A), PH110(O), EE110(A), MA102(A+), BE102(A), CS100(B),CS120(A+)",
+            "rollno": "TLY16CS020"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), EE100(F), PH110(A+), EE110(B), MA102(F), BE102(B), CS100(F),CS120(A+)",
+            "rollno": "TLY16CS021"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EE100(F), PH110(O), EE110(B+), MA102(F), BE102(B+), CS100(F),CS120(B+)",
+            "rollno": "TLY16CS022"
+        },
+        {
+            "mark": "PH100(A), BE110(A+), EE100(B+), PH110(O), EE110(A), MA102(B+), BE102(A), CS100(B),CS120(A+)",
+            "rollno": "TLY16CS023"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), EE100(C), PH110(B+), EE110(B), MA102(F), BE102(A), CS100(C),CS120(B+)",
+            "rollno": "TLY16CS024"
+        },
+        {
+            "mark": "PH100(F), BE110(O), EE100(C), PH110(A+), EE110(B+), MA102(B+), BE102(B+), CS100(C),CS120(A+)",
+            "rollno": "TLY16CS025"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), EE100(C), PH110(A), EE110(B+), MA102(F), BE102(A), CS100(F),CS120(B+)",
+            "rollno": "TLY16CS026"
+        },
+        {
+            "mark": "PH100(A), BE110(B+), EE100(A+), PH110(A+), EE110(A), MA102(A+), BE102(O), CS100(B),CS120(O)",
+            "rollno": "TLY16CS027"
+        },
+        {
+            "mark": "PH100(C), BE110(B), EE100(C), PH110(A), EE110(A), MA102(B+), BE102(B+), CS100(C),CS120(A+)",
+            "rollno": "TLY16CS029"
+        },
+        {
+            "mark": "PH100(C), BE110(O), EE100(B), PH110(A+), EE110(A), MA102(B), BE102(B+), CS100(B),CS120(O)",
+            "rollno": "TLY16CS030"
+        },
+        {
+            "mark": "PH100(B+), BE110(A), EE100(B+), PH110(O), EE110(A), MA102(A), BE102(A), CS100(C),CS120(A+)",
+            "rollno": "TLY16CS031"
+        },
+        {
+            "mark": "PH100(B+), BE110(A), EE100(B+), PH110(A+), EE110(A+), MA102(B+), BE102(A+), CS100(B),CS120(O)",
+            "rollno": "TLY16CS032"
+        },
+        {
+            "mark": "PH100(B), BE110(B), EE100(B+), PH110(A), EE110(A), MA102(A), BE102(A+), CS100(C),CS120(A)",
+            "rollno": "TLY16CS033"
+        },
+        {
+            "mark": "PH100(F), BE110(O), EE100(F), PH110(B+), EE110(B), MA102(B), BE102(A), CS100(F),CS120(O)",
+            "rollno": "TLY16CS034"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EE100(C), PH110(A+), EE110(B+), MA102(C), BE102(B), CS100(F),CS120(B+)",
+            "rollno": "TLY16CS035"
+        },
+        {
+            "mark": "PH100(B), BE110(F), EE100(B), PH110(A), EE110(B+), MA102(B), BE102(B+), CS100(C),CS120(A+)",
+            "rollno": "TLY16CS036"
+        },
+        {
+            "mark": "PH100(O), BE110(A+), EE100(A+), PH110(O), EE110(O), MA102(O), BE102(O), CS100(B),CS120(O)",
+            "rollno": "TLY16CS037"
+        },
+        {
+            "mark": "PH100(F), BE110(B), EE100(F), PH110(B), EE110(B), MA102(B), BE102(A), CS100(C),CS120(B+)",
+            "rollno": "TLY16CS038"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EE100(F), PH110(B), EE110(B+), MA102(F), BE102(B), CS100(F),CS120(B+)",
+            "rollno": "TLY16CS039"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EE100(F), PH110(B), EE110(C), MA102(F), BE102(C), CS100(F),CS120(B+)",
+            "rollno": "TLY16CS040"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EE100(B), PH110(A), EE110(A), MA102(C), BE102(B+), CS100(B),CS120(B+)",
+            "rollno": "TLY16CS041"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EE100(F), PH110(B+), EE110(B+), MA102(B), BE102(B+), CS100(F),CS120(B+)",
+            "rollno": "TLY16CS042"
+        },
+        {
+            "mark": "PH100(C), BE110(F), EE100(B+), PH110(A), EE110(B+), MA102(C), BE102(B+), CS100(C),CS120(B+)",
+            "rollno": "TLY16CS043"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), EE100(B+), PH110(O), EE110(A), MA102(B+), BE102(B+), CS100(B+),CS120(O)",
+            "rollno": "TLY16CS044"
+        },
+        {
+            "mark": "PH100(A), BE110(A+), EE100(A), PH110(O), EE110(A+), MA102(A+), BE102(A+), CS100(B+),CS120(O)",
+            "rollno": "TLY16CS045"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), EE100(B+), PH110(A), EE110(A+), MA102(A), BE102(A), CS100(B+),CS120(O)",
+            "rollno": "TLY16CS046"
+        },
+        {
+            "mark": "PH100(F), BE110(B), EE100(F), PH110(A), EE110(B), MA102(F), BE102(C), CS100(F),CS120(B+)",
+            "rollno": "TLY16CS047"
+        },
+        {
+            "mark": "PH100(B+), BE110(B+), EE100(A), PH110(A+), EE110(A), MA102(O), BE102(A+), CS100(A+),CS120(O)",
+            "rollno": "TLY16CS048"
+        },
+        {
+            "mark": "PH100(F), BE110(B+), EE100(B+), PH110(A+), EE110(A), MA102(B), BE102(A+), CS100(C),CS120(A)",
+            "rollno": "TLY16CS049"
+        },
+        {
+            "mark": "PH100(C), BE110(F), EE100(B), PH110(A), EE110(B), MA102(C), BE102(A), CS100(B),CS120(A)",
+            "rollno": "TLY16CS050"
+        },
+        {
+            "mark": "PH100(C), BE110(B+), EE100(C), PH110(B+), EE110(B), MA102(B), BE102(B+), CS100(B),CS120(O)",
+            "rollno": "TLY16CS051"
+        },
+        {
+            "mark": "PH100(B+), BE110(A+), EE100(B+), PH110(A+), EE110(A), MA102(A+), BE102(O), CS100(B+),CS120(O)",
+            "rollno": "TLY16CS052"
+        },
+        {
+            "mark": "PH100(F), BE110(F), EE100(C), PH110(A), EE110(B+), MA102(C), BE102(A), CS100(F),CS120(B+)",
+            "rollno": "TLY16CS053"
+        },
+        {
+            "mark": "PH100(A), BE110(A), EE100(B+), PH110(O), EE110(A), MA102(A), BE102(A), CS100(B+),CS120(A+)",
+            "rollno": "TLY16CS054"
+        },
+        {
+            "mark": "PH100(F), BE110(A), EE100(C), PH110(B+), EE110(A+), MA102(F), BE102(A), CS100(B),CS120(O)",
+            "rollno": "TLY16CS056"
+        },
+        {
+            "mark": "PH100(F), BE110(B), EE100(C), PH110(B+), EE110(B), MA102(C), BE102(B+), CS100(B),CS120(O)",
+            "rollno": "TLY16CS057"
+        },
+        {
+            "mark": "CY100(F), BE100(B), EE100(C), EC100(P), CY110(O), EE110(O), EC110(O), MA102(C),BE102(B+)",
+            "rollno": "TLY16CE001"
+        },
+        {
+            "mark": "CY100(F), BE100(F), EE100(F), EC100(F), CY110(A+), EE110(A+), EC110(A+), MA102(P),BE102(C)",
+            "rollno": "TLY16CE002"
+        },
+        {
+            "mark": "CY100(C), BE100(B), EE100(B), EC100(P), CY110(A), EE110(O), EC110(O), MA102(F),BE102(B)",
+            "rollno": "TLY16CE003"
+        },
+        {
+            "mark": "CY100(B+), BE100(B), EE100(B+), EC100(A+), CY110(O), EE110(O), EC110(O), MA102(B+),BE102(O)",
+            "rollno": "TLY16CE004"
+        },
+        {
+            "mark": "CY100(F), BE100(B), EE100(B), EC100(C), CY110(A), EE110(A+), EC110(O), MA102(F),BE102(B)",
+            "rollno": "TLY16CE005"
+        },
+        {
+            "mark": "CY100(B), BE100(B), EE100(C), EC100(B), CY110(A+), EE110(O), EC110(O), MA102(C),BE102(B)",
+            "rollno": "TLY16CE006"
+        },
+        {
+            "mark": "CY100(C), BE100(F), EE100(C), EC100(B), CY110(A+), EE110(A+), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16CE007"
+        },
+        {
+            "mark": "CY100(B), BE100(B), EE100(A+), EC100(B+), CY110(O), EE110(A+), EC110(O), MA102(O),BE102(B+)",
+            "rollno": "TLY16CE008"
+        },
+        {
+            "mark": "CY100(B), BE100(B), EE100(B+), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16CE009"
+        },
+        {
+            "mark": "CY100(F), BE100(C), EE100(B), EC100(P), CY110(A+), EE110(O), EC110(O), MA102(F),BE102(B+)",
+            "rollno": "TLY16CE010"
+        },
+        {
+            "mark": "CY100(C), BE100(B), EE100(B), EC100(C), CY110(A), EE110(A+), EC110(O), MA102(B+),BE102(B)",
+            "rollno": "TLY16CE011"
+        },
+        {
+            "mark": "CY100(B), BE100(B), EE100(B+), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(B),BE102(A)",
+            "rollno": "TLY16CE012"
+        },
+        {
+            "mark": "CY100(B+), BE100(B+), EE100(B+), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(A+),BE102(B+)",
+            "rollno": "TLY16CE013"
+        },
+        {
+            "mark": "CY100(F), BE100(F), EE100(C), EC100(P), CY110(O), EE110(O), EC110(O), MA102(F),BE102(A)",
+            "rollno": "TLY16CE014"
+        },
+        {
+            "mark": "CY100(B), BE100(B), EE100(B+), EC100(A+), CY110(O), EE110(A+), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16CE015"
+        },
+        {
+            "mark": "CY100(B), BE100(B), EE100(B+), EC100(B+), CY110(O), EE110(A+), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16CE017"
+        },
+        {
+            "mark": "CY100(C), BE100(F), EE100(B), EC100(C), CY110(O), EE110(O), EC110(A+), MA102(F),BE102(B+)",
+            "rollno": "TLY16CE018"
+        },
+        {
+            "mark": "CY100(C), BE100(B+), EE100(B+), EC100(B), CY110(O), EE110(A+), EC110(O), MA102(B),BE102(A)",
+            "rollno": "TLY16CE019"
+        },
+        {
+            "mark": "CY100(B), BE100(B+), EE100(B+), EC100(B+), CY110(O), EE110(A+), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16CE020"
+        },
+        {
+            "mark": "CY100(B+), BE100(A+), EE100(B+), EC100(A+), CY110(O), EE110(O), EC110(O), MA102(A),BE102(A)",
+            "rollno": "TLY16CE021"
+        },
+        {
+            "mark": "CY100(F), BE100(F), EE100(F), EC100(C), CY110(O), EE110(O), EC110(A), MA102(F),BE102(B+)",
+            "rollno": "TLY16CE022"
+        },
+        {
+            "mark": "CY100(F), BE100(F), EE100(F), EC100(C), CY110(A+), EE110(A+), EC110(O), MA102(C),BE102(B+)",
+            "rollno": "TLY16CE023"
+        },
+        {
+            "mark": "CY100(B), BE100(B), EE100(B), EC100(B+), CY110(O), EE110(A+), EC110(O), MA102(B),BE102(A)",
+            "rollno": "TLY16CE024"
+        },
+        {
+            "mark": "CY100(B+), BE100(A), EE100(A), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(O),BE102(A)",
+            "rollno": "TLY16CE025"
+        },
+        {
+            "mark": "CY100(C), BE100(B), EE100(B), EC100(B), CY110(O), EE110(A+), EC110(O), MA102(B),BE102(A)",
+            "rollno": "TLY16CE026"
+        },
+        {
+            "mark": "CY100(C), BE100(B), EE100(C), EC100(C), CY110(A), EE110(A+), EC110(O), MA102(F),BE102(B+)",
+            "rollno": "TLY16CE027"
+        },
+        {
+            "mark": "CY100(C), BE100(F), EE100(C), EC100(P), CY110(O), EE110(O), EC110(O), MA102(F),BE102(A)",
+            "rollno": "TLY16CE028"
+        },
+        {
+            "mark": "CY100(B+), BE100(B+), EE100(B+), EC100(B+), CY110(O), EE110(A+), EC110(O), MA102(A),BE102(A)",
+            "rollno": "TLY16CE029"
+        },
+        {
+            "mark": "CY100(B+), BE100(B+), EE100(B), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(B),BE102(A+)",
+            "rollno": "TLY16CE030"
+        },
+        {
+            "mark": "CY100(B), BE100(B), EE100(C), EC100(B), CY110(O), EE110(A+), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16CE031"
+        },
+        {
+            "mark": "CY100(B+), BE100(B), EE100(B), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(C),BE102(A+)",
+            "rollno": "TLY16CE032"
+        },
+        {
+            "mark": "CY100(C), BE100(B+), EE100(B+), EC100(C), CY110(O), EE110(A+), EC110(A), MA102(C),BE102(A)",
+            "rollno": "TLY16CE033"
+        },
+        {
+            "mark": "CY100(A+), BE100(A), EE100(A), EC100(A), CY110(O), EE110(A+), EC110(A+), MA102(A),BE102(B+)",
+            "rollno": "TLY16CE034"
+        },
+        {
+            "mark": "CY100(B+), BE100(A), EE100(B+), EC100(B), CY110(O), EE110(O), EC110(O), MA102(A+),BE102(A+)",
+            "rollno": "TLY16CE035"
+        },
+        {
+            "mark": "CY100(C), BE100(B+), EE100(C), EC100(C), CY110(O), EE110(O), EC110(O), MA102(B+),BE102(B+)",
+            "rollno": "TLY16CE036"
+        },
+        {
+            "mark": "CY100(C), BE100(B), EE100(B), EC100(C), CY110(A+), EE110(A+), EC110(A), MA102(B),BE102(B)",
+            "rollno": "TLY16CE037"
+        },
+        {
+            "mark": "CY100(B), BE100(B), EE100(C), EC100(C), CY110(O), EE110(A), EC110(A+), MA102(C),BE102(B)",
+            "rollno": "TLY16CE038"
+        },
+        {
+            "mark": "CY100(B+), BE100(B+), EE100(B), EC100(C), CY110(O), EE110(A+), EC110(O), MA102(A+),BE102(B+)",
+            "rollno": "TLY16CE039"
+        },
+        {
+            "mark": "CY100(B+), BE100(B+), EE100(A+), EC100(A), CY110(O), EE110(A+), EC110(O), MA102(B+),BE102(A+)",
+            "rollno": "TLY16CE040"
+        },
+        {
+            "mark": "CY100(B), BE100(B+), EE100(B+), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(B),BE102(A+)",
+            "rollno": "TLY16CE041"
+        },
+        {
+            "mark": "CY100(B), BE100(B+), EE100(B+), EC100(B), CY110(O), EE110(A+), EC110(O), MA102(A+),BE102(B+)",
+            "rollno": "TLY16CE042"
+        },
+        {
+            "mark": "CY100(C), BE100(B), EE100(C), EC100(C), CY110(O), EE110(A+), EC110(O), MA102(C),BE102(A)",
+            "rollno": "TLY16CE043"
+        },
+        {
+            "mark": "CY100(B), BE100(B+), EE100(B+), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(B+),BE102(A)",
+            "rollno": "TLY16CE044"
+        },
+        {
+            "mark": "CY100(C), BE100(B), EE100(B), EC100(C), CY110(A+), EE110(A+), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16CE045"
+        },
+        {
+            "mark": "CY100(B), BE100(B), EE100(B), EC100(B), CY110(O), EE110(A+), EC110(O), MA102(B),BE102(A)",
+            "rollno": "TLY16CE046"
+        },
+        {
+            "mark": "CY100(C), BE100(B+), EE100(B), EC100(C), CY110(O), EE110(A+), EC110(A), MA102(B),BE102(B)",
+            "rollno": "TLY16CE047"
+        },
+        {
+            "mark": "CY100(C), BE100(B), EE100(C), EC100(F), CY110(A), EE110(A+), EC110(O), MA102(F),BE102(B)",
+            "rollno": "TLY16CE048"
+        },
+        {
+            "mark": "CY100(F), BE100(C), EE100(C), EC100(P), CY110(B+), EE110(A+), EC110(O), MA102(C),BE102(B+)",
+            "rollno": "TLY16CE049"
+        },
+        {
+            "mark": "CY100(F), BE100(F), EE100(F), EC100(P), CY110(O), EE110(A+), EC110(O), MA102(F),BE102(B+)",
+            "rollno": "TLY16CE050"
+        },
+        {
+            "mark": "CY100(B), BE100(B+), EE100(C), EC100(C), CY110(O), EE110(A+), EC110(O), MA102(B+),BE102(B+)",
+            "rollno": "TLY16CE051"
+        },
+        {
+            "mark": "CY100(B+), BE100(B+), EE100(B), EC100(B), CY110(O), EE110(A+), EC110(O), MA102(B),BE102(A)",
+            "rollno": "TLY16CE052"
+        },
+        {
+            "mark": "CY100(O), BE100(A), EE100(A+), EC100(A+), CY110(O), EE110(O), EC110(O), MA102(O),BE102(A)",
+            "rollno": "TLY16CE053"
+        },
+        {
+            "mark": "CY100(B+), BE100(B), EE100(B+), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(A),BE102(B+)",
+            "rollno": "TLY16CE054"
+        },
+        {
+            "mark": "CY100(A), BE100(B+), EE100(A+), EC100(A), CY110(O), EE110(O), EC110(O), MA102(O),BE102(B+)",
+            "rollno": "TLY16CE055"
+        },
+        {
+            "mark": "CY100(B), BE100(B+), EE100(B), EC100(B), CY110(O), EE110(O), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16CE056"
+        },
+        {
+            "mark": "CY100(B), BE100(B+), EE100(B+), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(B+),BE102(B+)",
+            "rollno": "TLY16CE057"
+        },
+        {
+            "mark": "CY100(A+), BE100(B+), EE100(B+), EC100(A), CY110(O), EE110(A+), EC110(O), MA102(O),BE102(A+)",
+            "rollno": "TLY16CE058"
+        },
+        {
+            "mark": "CY100(A+), BE100(B+), EE100(A), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(A+),BE102(A+)",
+            "rollno": "TLY16CE059"
+        },
+        {
+            "mark": "CY100(C), BE100(B), EE100(C), EC100(B), CY110(A), EE110(O), EC110(A+), MA102(F),BE102(A)",
+            "rollno": "TLY16CE060"
+        },
+        {
+            "mark": "CY100(A), BE100(B), EE100(A), EC100(B+), CY110(O), EE110(A+), EC110(O), MA102(B),BE102(B+)",
+            "rollno": "TLY16CE061"
+        },
+        {
+            "mark": "CY100(A+), BE100(A), EE100(A+), EC100(B+), CY110(O), EE110(O), EC110(O), MA102(A+),BE102(B+)",
+            "rollno": "TLY16CE062"
+        },
+        {
+            "mark": "CY100(A), BE100(B+), EE100(A+), EC100(B), CY110(O), EE110(O), EC110(O), MA102(O),BE102(A+)",
+            "rollno": "TLY16CE063"
+        }
+    ]
+}
